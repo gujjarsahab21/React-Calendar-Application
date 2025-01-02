@@ -1,0 +1,69 @@
+/* Navbar.module.css */
+
+.Navbar {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  background-color: #333;
+  color: black;
+}
+
+.Navbar img {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+
+.Navbar p {
+  font-size: 24px;
+  margin: 0;
+}
+
+/* Menu Styles */
+.MenuButton {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.MenuButton:hover {
+  background-color: #45a049;
+}
+
+.MenuList {
+  position: absolute;
+  right: 20px;
+  background-color: black;
+  /* box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); */
+  border-radius: 5px;
+  z-index: 1;
+  border: black 1px;
+  color: black;
+}
+@media screen and (max-width: 768px) {
+  .Navbar {
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    position: relative;
+  }
+
+  .Navbar img {
+    margin-bottom: 10px;
+  }
+
+  .MenuList {
+  visibility: hidden;
+  }
+
+
+  .MenuButton {
+    visibility: hidden;
+  }
+}
