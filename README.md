@@ -93,16 +93,16 @@ The application is deployed on a live platform for evaluation:
 Below are the screenshots showcasing the application:
 
 ### Dashboard Page
-[![Dashboard Page Screenshot](./assets/dashboard.png)](./assets/dashboard.png)
+[![Dashboard Page Screenshot](./src/assets/dashboard.png)](./src/assets/dashboard.png)
 
 ### Company Page
-[![Company Page Screenshot](./assets/company.png)](./assets/company.png)
+[![Company Page Screenshot](./src/assets/company.png)](./src/assets/company.png)
 
 ### Communication Methods Management
-[![Communication Methods Management Screenshot](./assets/methods.png)](./assets/methodspng)
+[![Communication Methods Management Screenshot](./src/assets/methods.png)](./src/assets/methods.png)
 
 ### Calendar View
-[![Calendar View Screenshot](./assets/calender.png)](./assets/calender.png)
+[![Calendar View Screenshot](./src/assets/calender.png)](./src/assets/calender.png)
 
 
 
