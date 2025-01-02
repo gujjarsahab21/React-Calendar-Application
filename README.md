@@ -72,14 +72,6 @@ Users can:
 - **Past Communications**: Dates and methods of previous interactions.
 - **Upcoming Communications**: Scheduled dates and methods for future interactions.
 
-### Reporting and Analytics Module (Optional)
-Actionable insights and performance metrics:
-- **Communication Frequency Report**: Visual representation of communication method usage.
-- **Engagement Effectiveness Dashboard**: Tracks successful response rates.
-- **Overdue Communication Trends**: Trendline or heatmap of overdue actions.
-- **Downloadable Reports**: Export reports in PDF or CSV format.
-- **Real-Time Activity Log**: Live feed of all communication activities.
-
 ---
 
 ## Deployment
@@ -144,9 +136,6 @@ Below are the screenshots showcasing the application:
 - **FullCalendar**: For calendar functionality.
 - **Tailwind CSS**: For styling.
 - **Redux**: For state management.
-
----
-
 
 ---
 
