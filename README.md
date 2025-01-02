@@ -76,7 +76,7 @@ Users can:
 
 ## Deployment
 The application is deployed on a live platform for evaluation:
-- **Live URL**: [Insert URL Here]
+- **Live URL**: https://react-calendar-application-mauve.vercel.app/
 
 ---
 
